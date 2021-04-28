@@ -1,2 +1,6 @@
 # docker-image-frida
-Docker image for frida
+Docker base image for frida
+
+# Build
+
+docker build --tag frida .
